@@ -10,7 +10,7 @@ Dive into my projects and blogs to explore insights and tools that could help yo
 # 📝 Blog Articles & Projects
 
 ## 📊 SIEM & Data Monitoring
-## [[Cribl x Splunk Home SOC](URL)]
+## [[Cribl x Splunk Home SOC](https://github.com/DiezSeis/Cribl-Splunk-Home-SOC)]
 *Published on Oct 28, 2024*
 
 A step-by-step guide to setting up a Cribl and Splunk integration to optimize data collection and monitoring in SIEM environments.
