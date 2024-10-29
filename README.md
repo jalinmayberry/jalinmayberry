@@ -1,4 +1,4 @@
-# TENSIX
+# Jalin Mayberry
 
 **SIEM Engineer | Splunk Enterprise & Cloud Certified Admin | Cribl Certified Services Consultant |**
 
