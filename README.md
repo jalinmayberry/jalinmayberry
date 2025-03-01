@@ -28,6 +28,11 @@ Guide to setting up a cybersecurity homelab for monitoring and detection with st
 ---
 
 ## 🔒 Cybersecurity
+## [[System Hardening with CIS Benchmarks](https://github.com/jalinmayberry/CIS-Benchmarks)]
+*Published on Feb 28, 2025
+
+Applying system hardening playbooks with CIS benchmarks.
+
 ## [[Incident Response at Home: The Firewall That Cried Wolf](https://medium.com/@mayberryjalin/incident-response-at-home-the-story-of-the-firewall-that-cried-wolf-6f008507559c)]
 *Published on Aug 16, 2023 - 4 min read*
 
